@@ -1,0 +1,36 @@
+Creating order 1001 at time 1 with amount 100 and priority 4
+Creating order 1002 at time 2 with amount 150 and priority 7
+Creating order 1003 at time 8 with amount 50 and priority 2
+No function found for print
+Creating order 1004 at time 9 with amount 300 and priority 12
+Creating order 1001 at time 1 with amount 100 and priority 4
+Creating order 1002 at time 2 with amount 150 and priority 7
+Creating order 1003 at time 8 with amount 50 and priority 2
+Creating order 1001 at time 1 with amount 100 and priority 4
+Creating order 1002 at time 2 with amount 150 and priority 7
+Creating order 1003 at time 8 with amount 50 and priority 2
+No function found for print
+Creating order 1004 at time 9 with amount 300 and priority 12
+Getting rank of order 1004
+No function found for print
+Creating order 1005 at time 15 with amount 400 and priority 8
+Creating order 1006 at time 17 with amount 100 and priority 3
+Cancelling order 1005 at time 18
+Getting rank of order 1004
+Creating order 1007 at time 19 with amount 600 and priority 7
+Creating order 1008 at time 25 with amount 200 and priority 8
+Updating time of order 1007 to 27 with priority 12
+Getting rank of order 1006
+No function found for print
+Creating order 1009 at time 36 with amount 500 and priority 15
+Creating order 1010 at time 40 with amount 250 and priority 10
+Delivery details of order 1001: Time 1, Amount 100, Priority 4
+Delivery details of order 1002: Time 2, Amount 150, Priority 7
+Delivery details of order 1003: Time 8, Amount 50, Priority 2
+Delivery details of order 1004: Time 9, Amount 300, Priority 12
+Delivery details of order 1006: Time 17, Amount 100, Priority 3
+Delivery details of order 1007: Time 27, Amount 600, Priority 12
+Delivery details of order 1008: Time 25, Amount 200, Priority 8
+Delivery details of order 1009: Time 36, Amount 500, Priority 15
+Delivery details of order 1010: Time 40, Amount 250, Priority 10
+Quitting the program
